@@ -33,8 +33,8 @@ To write a Python program to evaluate a user-given Postfix expression that conta
 
 ```
 
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 
 OPERATORS=set(['*','+']) 
 def evaluate_postfix(expression):
